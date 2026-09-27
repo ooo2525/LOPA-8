@@ -31,7 +31,7 @@
   * 4-bit register 2
 * Every value must be converted into binary by the assembler.
 * The stack grows downwards.
-* Reset state: every register = `0`, but `SP = 0xFFFF`.
+* Reset state: every register = `0`.
 * Little endian.
 * No signed operations at the CPU level.
 * The return address is stored in the register `RA`.
