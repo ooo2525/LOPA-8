@@ -177,6 +177,11 @@ Jumps to `PTR` if the Carry flag is set.
 
 ---
 
+### `19` — `NOP`
+Simply waits out the cpu cycle
+
+---
+
 # Assembler Pseudo-Instructions
 
 ## `CALL`
